@@ -1,2 +1,1 @@
 "polytechnic college" 
-"polytechni college" 
